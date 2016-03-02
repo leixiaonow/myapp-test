@@ -7,6 +7,7 @@ public class MyActivity extends Activity {
     /**雷枭修改，在fix分支
      * Called when the activity is first created.
      */
+    //雷枭你好呀哈哈
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
