@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 public class MyActivity extends Activity {
-    /**
+    /**这个才是fix分支
      * Called when the activity is first created.
      */
     @Override
