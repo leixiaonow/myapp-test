@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../GraduateDesign/MyApplication" value="4318915338000" />
-        <entry key="$PROJECT_DIR$/../GraduateDesign/Notes-master" value="8707121351443" />
-        <entry key="$PROJECT_DIR$/../GraduateDesign/PhotoView-master" value="5604164944000" />
-        <entry key="$PROJECT_DIR$/../richeditor-android-master" value="10165613250380" />
-        <entry key="$PROJECT_DIR$/../weww" value="2904856425503" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
